@@ -19,6 +19,16 @@ This software demonstrates my ability to create a simple program, document it pr
 3. Navigate to project folder
 4. Run: `python hello.py`
 
+## You should see
+
+Hello World!
+Welcome to my first GitHub project!
+What is your name?
+
+## Time Spent
+
+Total: 45 minutes
+
 ## Video Demo
 
 [Software Demo Video](YOUR_YOUTUBE_LINK_HERE)
