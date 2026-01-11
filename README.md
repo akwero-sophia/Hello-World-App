@@ -31,7 +31,7 @@ Total: 45 minutes
 
 ## Video Demo
 
-[Software Demo Video](YOUR_YOUTUBE_LINK_HERE)
+[Software Demo Video](https://www.loom.com/share/dab487a42c4c4c7786d00a01c57acea5)
 
 ## Useful Websites
 
